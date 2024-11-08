@@ -34,7 +34,7 @@ This guide will walk you through the steps required to set up and run this Larav
     
     ```bash
    
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/AlwinMathew2003/crud_operations_using_laravel.git
     
     ```
     
@@ -43,7 +43,7 @@ This guide will walk you through the steps required to set up and run this Larav
     ```bash
     bash
     
-    cd your-repository
+    cd crud_operations_using_laravel
     
     ```
     
